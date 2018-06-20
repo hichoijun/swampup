@@ -1,4 +1,4 @@
-FROM  10.24.101.99:8081/docker/ubuntu:latest
+FROM ubuntu:latest
 
 MAINTAINER zhaobsh
 
