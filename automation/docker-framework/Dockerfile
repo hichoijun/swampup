@@ -1,4 +1,4 @@
-FROM  10.24.101.99:8081/artifactory/docker/ubuntu:latest
+FROM  HTTP://10.24.101.99:8081/artifactory/docker/ubuntu:latest
 
 MAINTAINER zhaobsh
 
