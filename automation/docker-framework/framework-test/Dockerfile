@@ -1,4 +1,4 @@
-FROM  CentOS75:8081/zhaobshdocker/docker-framework:latest
+FROM  docker-framework:latest
 
 MAINTAINER zhaobsh
 
