@@ -1,4 +1,4 @@
-FROM docker-framework:latest
+FROM CentOS75:8081/zhaobshdocker/docker-framework:latest
 
 MAINTAINER Stanley Fong stanleyf@jfrog.com
 
